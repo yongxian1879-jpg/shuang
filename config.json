@@ -5,7 +5,7 @@
 标签：vless-in，
 “听”： ”：：”，
 "listen_port": 8080,
-"users": [{ "uuid": "你的 UUID" }],
+"users": [{ "uuid": "c6c74173-17d6-443f-b0e4-9497c6eb8e0b" }],
 "transport": { "type": "ws", "path": "/chat" }
 }],
 "出站": [{ "type": "direct", "tag": "direct" }]
